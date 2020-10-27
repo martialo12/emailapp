@@ -1,7 +1,5 @@
 # emailapp
 
-## As an IT Support Administrator Specialist, immagine that you are charged with the task of creating email accounts for new hires.
-
 > #### Features
 >
 > - Generate an email with the following syntax: firstname.lastname@department.company.com.
